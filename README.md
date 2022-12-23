@@ -20,7 +20,7 @@ Casos de ejemplo:
 ![](https://github.com/AlFeVval/exam/blob/main/evidence/digitAddition.png) <br>
 ## [Código este ejercicio](https://github.com/AlFeVval/exam/blob/main/digAdd.cpp)
 
-## 2.Palindromos
+## 2. Palindromos
 ### Dado un *string*, escribe una función para verificar si es un palíndromo. Un palíndromo es un texto que se lee igual de izquierda a derecha que de derecha a izquierda. Las palabras: __salas, oso, reconocer y oro__ son palíndromos.
 Definición de la función: isPalindrome(inputStr: string): boolean
 Casos de ejemplo <br>
@@ -31,7 +31,7 @@ Casos de ejemplo <br>
 ![](https://github.com/AlFeVval/exam/blob/main/evidence/palindrome.png)
 ## [Código este ejercicio](https://github.com/AlFeVval/exam/blob/main/palindrome.cpp)
 
-## 3.Producto de elementos adyacentes
+## 3. Producto de elementos adyacentes
 ### Dado un arreglo de enteros, encuentra el par de elementos adyacentes tales que __su producto sea el más grande__ y devuelve dicho producto.
 
 Se consideran como elementos adyacentes aquellos que se encuentren a la izquierda o a la derecha, es decir, dado el arreglo [3, 6, -2, 5] los elementos adyacentes serían:
